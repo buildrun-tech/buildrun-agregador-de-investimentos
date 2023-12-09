@@ -4,12 +4,14 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 import tech.buildrun.agregadorinvestimentos.controller.dto.AccountStockDto;
+import tech.buildrun.agregadorinvestimentos.controller.dto.AccountStockResponseDto;
 import tech.buildrun.agregadorinvestimentos.entity.AccountStock;
 import tech.buildrun.agregadorinvestimentos.entity.AccountStockId;
 import tech.buildrun.agregadorinvestimentos.repository.AccountRepository;
 import tech.buildrun.agregadorinvestimentos.repository.AccountStockRepository;
 import tech.buildrun.agregadorinvestimentos.repository.StockRepository;
 
+import java.util.List;
 import java.util.UUID;
 
 @Service
@@ -41,5 +43,17 @@ public class AccountService {
         var accountStockEntity = new AccountStock(id, account, stock, accountStockDto.quantity());
 
         accountStockRepository.save(accountStockEntity);
+    }
+
+    public List<AccountStockResponseDto> listStocks(String accountId) {
+
+        var account = accountRepository.findById(UUID.fromString(accountId))
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Account nao existe"));
+
+        return account.getAccountStocks()
+                .stream()
+                .map(ac -> new AccountStockResponseDto(ac.getStock().getStockId(), ac.getQuantity(), 0.0))
+                .toList();
+
     }
 }
