@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/blob/master/images/stock-market.jpg"> 
+    <img style="border-radius: 10px;" width="50%" src="https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/blob/master/images/stock-market.jpg"> 
 </p>
 
 
