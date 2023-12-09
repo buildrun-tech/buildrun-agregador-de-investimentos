@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img style="border-radius: 10px;" width="50%" src="https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/blob/master/images/stock-market.jpg"> 
+    <img width="50%" src="https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/blob/master/images/stock-market.jpg"> 
 </p>
 
 
@@ -24,7 +24,7 @@ Para um maior entendimento do código deste repositório, acompanhe nossa série
 ### 1° - Criando o CRUD de Usuários
 
 - [Clique aqui para ver a branch dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/crud-usuarios)
-- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=TBD)
+- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=Tnl4YnB6E54)
 
 ### 2° - Realizando testes unitários
 
