@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/blob/main/images/stock-market.jpg"> 
+    <img width="30%" src="https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/blob/master/images/stock-market.jpg"> 
 </p>
 
 
@@ -14,6 +14,8 @@
   <img alt="Version: 1.0" src="https://img.shields.io/badge/version-1.0-yellowgreen">
 
 </p>
+
+[Se inscreva em nosso canal no Youtube!](https://www.youtube.com/@buildrun-tech?sub_confirmation=1)
 
 Para um maior entendimento do código deste repositório, acompanhe nossa série de vídeos:
 
