@@ -23,23 +23,23 @@ Para um maior entendimento do código deste repositório, acompanhe nossa série
 
 ### 1° - Criando o CRUD de Usuários
 
-- [Clique aqui para ver a branch dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/crud-usuarios)
+- [Clique aqui para ver o código dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/crud-usuarios)
 - [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=Tnl4YnB6E54)
 
 ### 2° - Realizando testes unitários
 
-- [Clique aqui para ver a branch dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/testes-unitarios)
-- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=TBD)
+- [Clique aqui para ver o código dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/testes-unitarios)
+- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=4bR0DYBk3OU)
 
 ### 3° - Criando os relacionamentos das entities
 
-- [Clique aqui para ver a branch dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/relacionamento-entities)
-- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=TBD)
+- [Clique aqui para ver o código dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/relacionamento-entities)
+- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=4yj3mYAbNIA)
 
 ### 4° - Consumindo os preços da bolsa de valores
 
-- [Clique aqui para ver a branch dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/consumo-precos-acoes-bolsa-valores)
-- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=TBD)
+- [Clique aqui para ver o código dessa parte.](https://github.com/buildrun-tech/buildrun-agregador-de-investimentos/tree/consumo-precos-acoes-bolsa-valores)
+- [Clique aqui para assitir o vídeo completo.](https://www.youtube.com/watch?v=tyXhylCsybE)
 
 ## :rocket: Tecnologias utilizadas
 
